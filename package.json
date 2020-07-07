@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon ./src/server",
-	"start": "nodemon ./src/server",
+	  "start": "node ./src/server",
     "test": "jest"
   },
   "dependencies": {
